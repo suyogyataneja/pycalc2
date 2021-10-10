@@ -7,5 +7,4 @@ def compute(exp):
 		return num0 + num1
 	else:
 		print('unkown operator')
-		return  0
-
+		return  None1
